@@ -1,5 +1,11 @@
 🌐 SDN Host Discovery with Dynamic Updates
 
+
+NAME: PRIYA K L                                                                                              
+SRN: PES1UG24CS600
+
+
+
 📌 Problem Statement
 
 This project implements a Host Discovery System in Software Defined Networking (SDN) using Mininet and the Ryu Controller (OpenFlow 1.3).
